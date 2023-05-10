@@ -1,0 +1,31 @@
+ .form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 50px;
+    }
+
+ 
+    .conteudo{
+      margin-top: 50px;
+      text-align: center;
+      background-color: #eee;
+      width: 100%;
+      max-width: 350px;
+      padding: 30px;   
+    }
+
+    
+
+    .conteudogeral{
+      display: flex;
+      justify-content: center;
+    }
+    
+    .linha{
+      padding: 1px;
+      background-color: black;
+      justify-items: center;
+      width: 100%;
+    }
